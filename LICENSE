@@ -1,0 +1,75 @@
+Nythxion Source-Available Attribution License, Version 1.0 (NSAAL 1.0)
+
+Copyright (c) 2026 Nythxion Studios
+
+Definitions
+
+"Software" means the software and associated documentation files made available under this license.
+
+"You" means the individual or entity exercising the rights granted by this license.
+
+"Contributor" means any person or entity that submits a contribution intentionally included in the Software.
+
+"Derivative Work" means any work based on the Software, including any modified version, fork, or adaptation, and any other work that incorporates the Software or any portion of it, whether modified or not.
+
+"Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with you.
+
+"Distribute" means to make copies of the Software, or of a Derivative Work, available to any other person or entity by any means, including by posting them on a website or code repository, and including by making the Software available for use over a network, such as through a hosted service. "Redistribute" has the same meaning.
+
+"Private use" means use of the Software that does not involve distributing it, or making it available for use, to any other person or entity.
+
+"Substantial portion" means a part of the Software that is significant in quantity or quality, including any core algorithm or central component of the Software.
+
+Permission is hereby granted, without any license fee, to any person obtaining a copy of the Software, to use, copy, modify, merge, publish, distribute, and sublicense copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to Section 1 and Section 1A where they apply.
+
+1. Conditions for Redistribution and Derivative Works
+
+The conditions in this Section apply only when you redistribute the Software, in source or binary form, or distribute a Derivative Work. They do not apply to private use of the Software.
+
+If you redistribute the Software or distribute a Derivative Work, you must:
+
+(a) include the above copyright notice, this license, and the disclaimer in Section 8 with every copy of the Software or substantial portion of it. For source distributions, this means in the source files or in a NOTICE, README, or documentation file distributed with them. For binary or compiled distributions, this means in the documentation distributed with the product;
+
+(b) if you distribute the Software or a Derivative Work as part of a product with a user interface, display a credit line naming "Nythxion Studios" as the original copyright holder, in a credits, about, or settings screen that is accessible from the product's main menu, without requiring any hidden gesture, secret input, or timed action. The credit must be at least as legible as the surrounding interface text and may read, for example: "Developed by Nythxion Studios (NSAAL 1.0)." If the product has no user interface, the credit line must instead appear in its README or documentation; and
+
+(c) in modified files, include a notice stating that the files have been changed.
+
+1A. Substantial Modification Required for Distribution
+
+You may not redistribute the Software, in source or binary form, or distribute a Derivative Work, unless it has been substantially modified. A modification is substantial only if it adds, removes, or changes the functionality of the Software. Incorporating the Software into another product or service is a substantial modification, provided that the product or service adds substantial functionality beyond the Software itself. Wrapping the Software in a product that adds no substantial functionality of its own, such as a splash screen, menu, or launcher, is not a substantial modification. Cosmetic changes, renaming, formatting, configuration, and packaging changes are not substantial modifications. Redistributing the Software unmodified, or with only minor modifications, is not permitted, except that this restriction does not apply to a product or service that is a substantial modification under this Section. This Section does not restrict private use of the Software.
+
+2. Commercial and Private Use
+
+The Software may be used for commercial and non-commercial purposes, including incorporation into commercial products and services. You may use the Software privately, whether modified or not, without any obligation beyond the permission granted above. You may not sell the Software itself or sublicense it for a fee. A fee is for the Software itself if it is charged for access to or use of the Software alone, rather than for a product or service that incorporates it. Incorporating the Software into a paid product or service is permitted, provided you comply with Section 1A.
+
+3. Combination with Other Software
+
+The Software may be combined with software licensed under other terms. Each component remains subject to its own license, and nothing in this license restricts or overrides the terms of that other software. The combined work must still satisfy the conditions of this license with respect to the Software. If the combined work cannot satisfy both this license and the other license, you may not distribute it.
+
+4. Contributions
+
+Unless you explicitly state otherwise, any contribution intentionally submitted by a Contributor for inclusion in the Software is provided under the terms of this license. Contributors retain copyright in their contributions. Contributions do not transfer copyright to Nythxion Studios unless agreed in a separate written agreement.
+
+5. Patents
+
+Nythxion Studios and each Contributor grant you a perpetual, worldwide, royalty-free, non-exclusive license under their patent claims that are necessarily infringed by their contribution alone or in combination with the Software. If you or any of your Affiliates institute patent litigation alleging that the Software or a contribution infringes a patent, the patent license granted to you under this Section terminates as of the date such litigation is filed.
+
+6. Trademarks
+
+This license does not grant any right to use the name "Nythxion Studios," its logos, trademarks, or other branding, except as needed to make the attribution required by Section 1(b). All such rights remain with their respective holders.
+
+7. Termination and Cure
+
+If you fail to comply with Section 1, Section 1A, or Section 2, your rights under this license terminate automatically. If you cure the violation within 14 days after receiving written notice of it from the copyright holder, your rights are reinstated. Termination under this Section does not affect the rights of anyone who received copies of the Software from you in compliance with this license. The copyright holder retains the right to revoke or terminate your rights under this license for any violation of its terms, subject to the cure period in this Section. The copyright holder may also revoke or terminate your rights under this license if you use the Software in a manner that circumvents the purpose of Sections 1, 1A, or 2, including through a loophole in the license's terms, subject to the same cure period.
+
+8. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+9. Limitation of Liability
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. NOTHING IN THIS LICENSE LIMITS ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW, INCLUDING LIABILITY FOR INTENT, GROSS NEGLIGENCE, INJURY TO LIFE, BODY, OR HEALTH, OR LIABILITY UNDER MANDATORY CONSUMER PROTECTION LAW.
+
+10. Governing Law
+
+This license is governed by the laws of the Federal Republic of Germany, excluding the United Nations Convention on Contracts for the International Sale of Goods (CISG), and without regard to its conflict-of-laws principles. Any dispute arising out of or in connection with this license, including its existence, validity, or termination, shall be finally resolved by arbitration under the DIS Arbitration Rules. The seat of arbitration is Germany, the language of the arbitration is English, and the dispute shall be decided by a sole arbitrator. Either party may seek interim or injunctive relief, including through an emergency arbitrator, under the DIS Arbitration Rules to prevent infringement of intellectual property rights.

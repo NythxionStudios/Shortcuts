@@ -1,0 +1,63 @@
+{
+  "name": "nythxion-shortcuts",
+  "version": "1.0.0",
+  "productName": "Nythxion Shortcuts",
+  "desktopName": "nythxion-shortcuts.desktop",
+  "description": "Press. Open. Done.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "build:linux": "electron-builder --linux",
+    "build:win": "electron-builder --win",
+    "build:all": "electron-builder --linux --win"
+  },
+  "keywords": [],
+  "author": "Nythxion Studios",
+  "license": "NSAAL 1.0",
+  "type": "commonjs",
+  "devDependencies": {
+    "@electron/rebuild": "^4.2.0",
+    "electron": "^44.5.1",
+    "electron-builder": "^26.15.3"
+  },
+  "build": {
+    "appId": "com.nythxion.shortcuts",
+    "productName": "Nythxion Shortcuts",
+    "copyright": "Copyright © 2026 Nythxion Studios",
+    "directories": {
+      "output": "dist"
+    },
+    "extraResources": [
+      {
+        "from": "app_finder.py",
+        "to": "app_finder.py"
+      }
+    ],
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "renderer/icons/Logo.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "installerIcon": "renderer/icons/Logo.ico",
+      "uninstallerIcon": "renderer/icons/Logo.ico",
+      "include": "build/installer.nsh",
+      "installerHeader": "build/installerHeader.bmp",
+      "installerSidebar": "build/installerSidebar.bmp",
+      "uninstallerSidebar": "build/installerSidebar.bmp"
+    },
+    "linux": {
+      "target": ["appImage"],
+      "category": "Utility",
+      "syncDesktopName": true,
+      "icon": "renderer/icons/Logo.png",
+      "maintainer": "nythxionai@gmx.net"
+    }
+  }
+}
