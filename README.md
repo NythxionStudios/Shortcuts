@@ -1,19 +1,19 @@
 ```text
 ███╗   ██╗██╗   ██╗████████╗██╗  ██╗██╗  ██╗██╗ ██████╗ ███╗   ██╗
 ████╗  ██║╚██╗ ██╔╝╚══██╔══╝██║  ██║╚██╗██╔╝██║██╔═══██╗████╗  ██║
-██╔██╗ ██║ ╚████╔╝    ██║   ███████║ ╚███╔╝ ██║██║   ██║██╔██╗ ██║
+██╔██╗ ██║  ╚████╔╝   ██║   ███████║ ╚███╔╝ ██║██║   ██║██╔██╗ ██║
 ██║╚██╗██║  ╚██╔╝     ██║   ██╔══██║ ██╔██╗ ██║██║   ██║██║╚██╗██║
 ██║ ╚████║   ██║      ██║   ██║  ██║██╔╝ ██╗██║╚██████╔╝██║ ╚████║
 ╚═╝  ╚═══╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═╝  ╚═══╝
 
-                    C L O S E D - S O U R C E
+                    S O U R C E - A V A I L A B L E
 ```
 
 # Nythxion Shortcuts
 
 **Nythxion Shortcuts** is a shortcut management application developed by **Nythxion Studios**.
 
-It allows users to create and configure keyboard shortcuts for quickly launching websites and applications, providing fast access to frequently used destinations directly from Windows.
+It allows users to create and configure keyboard shortcuts for quickly launching websites and applications, providing fast access to frequently used destinations.
 
 ## Features
 
@@ -30,6 +30,7 @@ It allows users to create and configure keyboard shortcuts for quickly launching
 * UI sound settings
 * Custom Nythxion interface
 * Windows desktop application
+* Linux desktop application (AppImage)
 * Fast and lightweight
 * Local-first operation
 
@@ -52,7 +53,7 @@ This allows website shortcuts to be entered without manually specifying a protoc
 
 Applications can be assigned to keyboard shortcuts and launched directly through Nythxion Shortcuts.
 
-The application finder helps locate installed Windows applications so they can be assigned without manually entering their executable paths.
+The application finder helps locate installed applications so they can be assigned without manually entering their executable paths.
 
 Nythxion Shortcuts can also restore or focus an existing application window when appropriate.
 
@@ -116,14 +117,23 @@ The application primarily performs local shortcut registration, application laun
 
 ## System Requirements
 
-### Recommended
+### Windows
 
 * Windows 10 or later
 * 64-bit processor
 * 4 GB RAM or more
 * Approximately 200 MB of available storage
 
+### Linux
+
+* 64-bit Linux distribution
+* AppImage support
+* Tested and guaranteed to work on Nobara Linux
+* Other Linux distributions are untested and not officially guaranteed
+
 ## Installation
+
+### Windows
 
 Nythxion Shortcuts is distributed through an official Windows installer.
 
@@ -134,9 +144,19 @@ Nythxion Shortcuts is distributed through an official Windows installer.
 
 The installer also provides a proper Windows uninstall option.
 
+### Linux
+
+Nythxion Shortcuts is distributed for Linux through an AppImage.
+
+1. Download the Linux AppImage.
+2. Make the AppImage executable if necessary.
+3. Run the AppImage to launch Nythxion Shortcuts.
+
+**Compatibility:** Guaranteed to work on Nobara Linux. Other distributions remain untested.
+
 ## Version
 
-**Nythxion Shortcuts V1.0.0**
+**Nythxion Shortcuts V1.1.0**
 
 ## Developer
 
@@ -148,11 +168,11 @@ Software development and engineering division of Nythxion Studios.
 
 ## License
 
-© 2026 Nythxion Studios. All rights reserved.
+Nythxion Shortcuts is licensed under the **Nythxion Source-Available Attribution License (NSAAL) 1.0**.
 
-Nythxion Shortcuts is proprietary closed-source software.
+Copyright (c) 2026 Nythxion Studios.
 
-You may use the software for its intended purpose, but you may not redistribute, modify, reverse engineer, or commercially exploit the software without permission from Nythxion Studios.
+See the [NSAAL 1.0 License](LICENSE) file for the complete license terms.
 
 ## Disclaimer
 
